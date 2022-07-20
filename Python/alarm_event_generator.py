@@ -9,13 +9,13 @@ from dumper import dump
 # sets the python to use and the custom library location
 """	
     "settings": {
-		"python.condaPath": "C:\\Users\\e1055168\\Anaconda3\\python.exe",
+		"python.condaPath": "C:\\Users\\USER\\Anaconda3\\python.exe",
 		"python.analysis.extraPaths": [
-			"C:\\Users\\e1055168\\OneDrive - FIS\\Desktop\\FIS\\tools\\github\\Python-Practice\\Python-Practice\\Mel\\MyScripts\\Python\\learning"
+			"C:\\Users\\USER\\OneDrive - COMPANY\\Desktop\\FIS\\tools\\github\\Python-Practice\\Python-Practice\\Mel\\MyScripts\\Python\\learning"
 		]
 """  
 #sys.path.append("/app/lab/lib/")
-sys.path.append("C:\\Users\\e1055168\\OneDrive - FIS\\Desktop\\FIS\\tools\\github\\Python-Practice\\Python-Practice\\Mel\\MyScripts\\Python\\learning")
+sys.path.append("C:\\Users\\USER\\OneDrive - COMPANY\\Desktop\\FIS\\tools\\github\\Python-Practice\\Python-Practice\\Mel\\MyScripts\\Python\\learning")
 
 # homebrew libraries and function import
 from ToolSet import HomeTools
